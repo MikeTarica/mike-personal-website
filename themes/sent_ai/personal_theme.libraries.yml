@@ -1,0 +1,11 @@
+# fluffiness.libraries.yml
+cuddly-slider:
+  version: 1.x
+  css:
+    theme:
+      css/global-styling.css: {}
+      css/layout.css: {}
+  js:
+    js/cuddly-slider.js: {}
+dependecies:  
+  core/jquery
