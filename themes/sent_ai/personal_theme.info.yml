@@ -4,6 +4,9 @@ description: "personal theme for portfolio"
 core_version_requirement: ^8 || ^9
 libraries:
   - css/global-styling.css
+  - css/colors.css
+  - css/layout.css
+  - css/maintenance.css
 base theme: classy
 regions:
   header: "Header"
@@ -22,3 +25,5 @@ dependecies:
   drupal: views
   paragraphs: paragraphs
   components: components (>=8.x-2.x)
+package:
+  php: 5.5.9

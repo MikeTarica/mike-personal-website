@@ -5,6 +5,8 @@ cuddly-slider:
     theme:
       css/global-styling.css: {}
       css/layout.css: {}
+      css/color.css: {}
+      css/maintenance-page.css: {}
   js:
     js/cuddly-slider.js: {}
 dependecies:  
